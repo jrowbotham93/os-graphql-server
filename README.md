@@ -1,1 +1,1 @@
-# os-graphql-server
+# os-api-gateway
